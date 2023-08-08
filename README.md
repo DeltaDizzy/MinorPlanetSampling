@@ -16,9 +16,8 @@ To install, open the MinorPlanetSampling.zip file and merge the GameData folder 
 
 ## Changelog
 - v1.0 (August 9th, 2023)
-  - Added comet experiment
+  - Added comet and asteroid experiments
   - Added required science container functionality
  
 ## Roadmap
-- Add asteroid experiment
 - Remove the need for science containers?
