@@ -1,0 +1,28 @@
+{
+    "NAME":"Minor Planet Sampling",
+    "URL":"https://raw.githubusercontent.com/DeltaDizzy/MinorPlanetSampling/main/GameData/MinorPlanetSampling/MinorPlanetSampling.version",
+    "DOWNLOAD":"https://github.com/DeltaDizzy/MinorPlanetSampling/releases/latest",
+    "VERSION":
+    {
+        "MAJOR":1,
+        "MINOR":0,
+        "PATCH":0,
+        "BUILD":0
+    },
+    "KSP_VERSION":
+    {
+        "MAJOR":1,
+        "MINOR":12,
+        "PATCH":5
+    },
+    "KSP_VERSION_MIN":{
+        "MAJOR":1,
+        "MINOR":10,
+        "PATCH":0
+    },
+    "KSP_VERSION_MAX":{
+        "MAJOR":1,
+        "MINOR":12,
+        "PATCH":99
+    }
+}
